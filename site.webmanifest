@@ -1,0 +1,14 @@
+{
+  "name": "Sutradhaar Studio",
+  "short_name": "Sutradhaar",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

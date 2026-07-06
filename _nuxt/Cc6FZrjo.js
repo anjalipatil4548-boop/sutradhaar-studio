@@ -1,0 +1,1 @@
+import{$ as e}from"./B1_SKZdg.js";import{f as t}from"#entry";import{n,t as r}from"./BxBRZb5j.js";var i=i=>{t(()=>{let t=e();n().isStarted()?r(`done`,()=>t.run(i)):t.run(i)})};export{i as t};

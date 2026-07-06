@@ -1,0 +1,1 @@
+import{n as e}from"./4tVxZq34.js";import{H as t,R as n,m as r}from"./B1_SKZdg.js";import{t as i}from"./BDNMzG2s.js";var a=e({default:()=>l}),o={},s={class:`page`};function c(e,i){return n(),r(`div`,s,[t(e.$slots,`default`)])}var l=Object.assign(i(o,[[`render`,c]]),{__name:`Page`});export{a as n,l as t};

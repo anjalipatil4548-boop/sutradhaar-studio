@@ -1,0 +1,1 @@
+import{ot as e,q as t}from"./B1_SKZdg.js";import{t as n}from"./BH-fG-D7.js";import{Q as r,yt as i}from"./BwlHEUGU.js";var a=`#ffffff`,o=n(()=>{let n=e({visible:!0,color:a}),o=r(new i(n.color));return t(()=>n.color,e=>o.value.set(e)),{settings:n,uColor:o}});export{o as t};

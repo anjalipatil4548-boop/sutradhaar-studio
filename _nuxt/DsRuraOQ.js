@@ -1,0 +1,1 @@
+import{p as e}from"#entry";function t(t,n){return e.create(t,{...n,tag:`span`,deepSlice:!1,linesClass:[`split-line`,n.linesClass].filter(Boolean).join(` `),wordsClass:[`split-word`,n.wordsClass].filter(Boolean).join(` `),charsClass:[`split-char`,n.charsClass].filter(Boolean).join(` `)})}export{t};
